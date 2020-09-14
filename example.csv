@@ -1,0 +1,3 @@
+path,command
+/hello,"Hello World!{+CTRL}a{-CTRL}{MR}{MTO:100,200}hey!"
+/salut,{foobar}
